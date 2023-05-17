@@ -8,4 +8,5 @@ https://www.ioi-jp.org/joi/2015/2016-ho/2016-ho-t1-review.pdf
 ## 20점 받기
 + 가능한 모든 포장 방법을 열거하여 그 중 최소가 답이 된다.
 + $dfs(a)=(a$개째 이후를 채울 때의 최소 비용 $)$ 이라 하자.
-+ $dfs(a)=min \\{ dfs(b)+(b-a) \times (MAX-MIN) + K \\}$
++ $dfs(a)=min \\{ dfs(b)+(b-a) \times (MAX-MIN) + K \\} (a \le b \le a+M)$
++ 
