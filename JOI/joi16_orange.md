@@ -1,5 +1,6 @@
-# 오렌지 출하 해설
-https://www.ioi-jp.org/joi/2015/2016-ho/2016-ho-t1-review.pdf
+# 오렌지 출하
+## 문제
+https://www.acmicpc.net/problem/11985
 ## 문제 개요
 + 오렌지가 일렬로 늘어서 있다.  
 + 적당한 위치에서 일렬로 나열된 오렌지를 끊어 상자에 담는다.  
