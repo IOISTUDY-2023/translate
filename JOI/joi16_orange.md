@@ -9,4 +9,4 @@ https://www.ioi-jp.org/joi/2015/2016-ho/2016-ho-t1-review.pdf
 + 가능한 모든 포장 방법을 열거하여 그 중 최소가 답이 된다.
 + $dfs(a)=(a$개째 이후를 채울 때의 최소 비용 $)$ 이라 하자.
 + $dfs(a)=min \\{ dfs(b)+(b-a) \times (MAX-MIN) + K \\}$ $(a \le b \le a+M)$
-+ 
++ 전체적으로 $dfs(a)$는 $O(2^N)$번 호출되고, $dfs(a)$ 호출 1회당 시간 복잡도는 $O(M^2)$ 이므로 총 시간 복잡도는 $O(2^N M^2)$
