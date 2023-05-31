@@ -1,5 +1,7 @@
 # Road Construction (JOISC 2021)
 ## 문제
+[BOJ](https://www.acmicpc.net/problem/21788), [oj.uz](https://oj.uz/problem/view/JOI18_construction), [LibreOJ](https://loj.ac/p/3491), [QOJ.ac](https://qoj.ac/problem/3096)
+
 JOI 왕국에는 $N$개의 도시가 있다. 각 도시에는 $1$번부터 $N$번까지의 숫자가 배정되어 있다. JOI 왕국의 영토를 xy평면으로 보면, $i$번째 도시$(1 \leq i \leq N)$의 위치를 좌표 $(X_i, Y_i)$로 나타낼 수 있다.
 
 JOI 왕국은 두 도시 사이를 잇는 $K$개의 도로를 건설하고자 한다. $i$번과 $j$번 도시 사이에 도로를 건설하려면 $|X_i-X_j|+|Y_i-Y_j|$만큼의 비용이 든다. 이때, 도로는 양방향의 차선을 모두 포함한다. 즉, $i$번과 $j$번 도시 사이의 도로와 $j$번과 $i$번 도시 사이의 도로는 동일한 도로이다.
