@@ -1,6 +1,6 @@
 # Aerobatics (JOISC 2021)
 ## 문제 링크
-BOJ([테스트케이스 1](https://www.acmicpc.net/problem/21779), [2](https://www.acmicpc.net/problem/21780), [3](https://www.acmicpc.net/problem/21781), [4](https://www.acmicpc.net/problem/21782), [5](https://www.acmicpc.net/problem/21783), [6](https://www.acmicpc.net/problem/21784)), [oj.uz](https://oj.uz/problem/view/JOI21_aerobatics), [LibreOJ](https://loj.ac/p/3487), [QOJ](https://qoj.ac/problem/3092)
+BOJ([Testcase 1](https://www.acmicpc.net/problem/21779), [2](https://www.acmicpc.net/problem/21780), [3](https://www.acmicpc.net/problem/21781), [4](https://www.acmicpc.net/problem/21782), [5](https://www.acmicpc.net/problem/21783), [6](https://www.acmicpc.net/problem/21784)), [oj.uz](https://oj.uz/problem/view/JOI21_aerobatics), [LibreOJ](https://loj.ac/p/3487), [QOJ](https://qoj.ac/problem/3092), [공식 문제지(영어)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day1/aerobatics-en.pdf), [공식 풀이 슬라이드(일어)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day1/aerobatics-review.pdf) 참고
 
 ## 문제
 기범이는 곡예비행 대회에 출전해서 비행기를 조종하려고 한다. 비행기는 일정한 고도를 날며 N개의 지점을 통과해야 한다. 각 지점은 $1$부터 $N$까지의 번호를 가지고 있다. 이때 $i$번 지점($1 \leq i \leq N$)은 좌표 $(X_i,Y_i)$에 위치해 있다.
