@@ -45,4 +45,4 @@ JOI 깃발에 포함된 JOI 문장의 개수란 JOI 깃발에 포함되는 세�
 > 3
 
 지문의 상황과 같다. 위에서 2번째, 왼쪽에서 4번째 정사각형을 J를 적은 백지로 덮어 다음과 같이 JOI 문장 3개를 만들 수 있다. (사진 첨부 예정) JOI 문장을 4개 이상 만들 수 있는 경우는 존재하지 않으므로, 이 예제 입력의 답은 3이다.
-![JOI 깃발의 한 곳을 변경한 예][(https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images3/joi2.png "JOI 깃발의 한 곳을 변경한 예](https://www.acmicpc.net/upload/images3/joi3.png)")
+![JOI 깃발의 한 곳을 변경한 예시](https://www.acmicpc.net/upload/images3/joi3.png "JOI 깃발의 한 곳을 변경한 예시")
