@@ -1,9 +1,9 @@
-# Event Hopping 2 (JOISC2021)
+# Event Hopping 2 - 행사 고르기 2 (JOISC2021)
 ## 문제
 [BOJ](https://www.acmicpc.net/problem/21793), [oj.uz](https://oj.uz/problem/view/JOI21_event2), [atcoder](https://atcoder.jp/contests/joisc2021/tasks/joisc2021_k), [DMOJ](https://dmoj.ca/problem/joi21scd4p1), [LibreOJ](https://loj.ac/p/3496), [QOJ.ac](https://qoj.ac/problems?tag=JOISC%202021%20Day%204), [공식 문제지(영어)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day4/event2-en.pdf), [공식 풀이 슬라이드(일어)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day4/event2-review.pdf) 참고
 
 경기과고에서 $N$개의 행사가 열릴 예정이다. 각 행사는 1번부터 $N$번까지의 번호를 가지고 있다. $i$번째 행사는 $L_i + 0.1$부터 $R_i - 0.1$까지의 시간 사이에 열린다. 이때 $L_i$와 $R_i$는 1 이상의 정수이다.\
-건표는 이중에서 정확히 $K$개의 행사에 참가하고자 한다. 행사가 시작된 후에 행사에 들어가거나, 종료되기 이전에 행사에서 나올 수는 없다. 참고로, 행사장 사이를 이동하는 시간은 무시한다.\
+건표는 이 중에서 정확히 $K$개의 행사에 참가하고자 한다. 행사가 시작된 후에 행사에 들어가거나, 종료되기 이전에 행사에서 나올 수는 없다. 참고로, 행사장 사이를 이동하는 시간은 무시한다.\
 건표는 되도록 번호가 작은 행사에 참가하고 싶어한다. 더 엄밀히, 건표가 참가하려고 하는 행사의 번호가 $a_1, a_2, ..., a_N$(단, $a_1 < a_2 < ... < a_N$)일 때, 수열 $(a_1, a_2, ..., a_K)$가 사전순으로 가장 작은 수열이 되도록 하려고 한다.\
 행사의 수와 각 행사의 시간, 건표가 참가하고자 하는 행사의 수가 주어졌을 때, 건표가 참가하고자 하는 행사의 번호를 출력하는 프로그램을 작성하시오.
 ## 입력
