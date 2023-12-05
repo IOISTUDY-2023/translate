@@ -1,4 +1,7 @@
+# Meetings 2 (JOISC 2021)
 ## 문제
+[BOJ](https://www.acmicpc.net/problem/21792), [oj.uz](https://oj.uz/problem/statistics/JOI21_meetings2?locale=ko&order_by=size&page=4), [DMOJ](https://dmoj.ca/problem/joi21scd3p3), [문제 원문(영어)](https://www2.ioi-jp.org/camp/2021/2021-sp-tasks/day3/meetings2-en.pdf), [풀이 원문(일어)](https://www2.ioi-jp.org/camp/2021/2021-sp-tasks/day3/meetings2-review.pdf) 참고
+
 비버들이 $N$개의 섬에 살고 있다. 각 섬은 1번부터 $N$번까지의 번호를 가지고 있다. $N$개의 섬 사이에는 $N-1$개의 교량이 설치되어 있으며, $i$번째 교량은 $A_i$번 섬과 $B_i$번 섬을 연결한다. 교량을 몇 개 이용하면 어떤 두 섬도 왕복할 수 있다.\
 각 섬에는 비버가 한 마리씩 살고 있다. 비버들은 때때로 한 섬에 모여서 정모를 한다. 정모에 참석할 비버가 결정되면, 참석하는 비버들이 건너야 하는 교량의 수가 최소가 되도록 하는 섬을 정모 장소로 정한다. 이때, 정모에 참석하는 비버들은 각각 자신이 살고 있는 섬에서 정모가 진행되는 섬으로 가장 적은 교량을 건너서 이동한다.\
 위와 같은 조건으로 섬을 고를 때, 조건을 만족하는 섬이 여러 개 있을 수도 있다. 비버들은 이런 경우 섬을 고를 수 있기 때문에 만족하는 섬이 여러 개인 경우를 좋아한다. 정모에 참석하는 비버가 결정되면 위의 조건에 따라 선택할 수 있는 섬의 개수를 '점수'라고 한다. 비버들은 점수가 최대인 정모를 찾고 싶어한다.\
