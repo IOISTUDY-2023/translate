@@ -1,4 +1,4 @@
-# Event Hopping 2 - 행사 고르기 2 (JOISC2021)
+# Event Hopping 2 (JOISC 2021)
 ## 문제
 [BOJ](https://www.acmicpc.net/problem/21793), [oj.uz](https://oj.uz/problem/view/JOI21_event2), [atcoder](https://atcoder.jp/contests/joisc2021/tasks/joisc2021_k), [DMOJ](https://dmoj.ca/problem/joi21scd4p1), [LibreOJ](https://loj.ac/p/3496), [QOJ.ac](https://qoj.ac/problems?tag=JOISC%202021%20Day%204), [공식 문제지(영어)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day4/event2-en.pdf), [공식 풀이 슬라이드(일어)](https://www.ioi-jp.org/camp/2021/2021-sp-tasks/day4/event2-review.pdf) 참고
 
